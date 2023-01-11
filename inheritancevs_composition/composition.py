@@ -112,4 +112,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-    print('git changes testa')
+    print('git changes testas')
